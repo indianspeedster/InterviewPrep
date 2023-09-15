@@ -1,3 +1,247 @@
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
+- [ ]	3	Longest Substring Without Repeating Characters			
+- [ ]	4	Median of Two Sorted Arrays			
+- [ ]	5	Longest Palindromic Substring			
+- [ ]	10	Regular Expression Matching			
+- [ ]	11	Container With Most Water			
+- [ ]	12	Integer to Roman			
+- [ ]	13	Roman to Integer			
+- [ ]	15	3Sum			
+- [ ]	16	3Sum Closest			
+- [ ]	20	Valid Parentheses			
+- [ ]	22	Generate Parentheses			
+- [ ]	23	Merge k Sorted Lists			
+- [ ]	25	Reverse Nodes in k-Group			
+- [ ]	31	Next Permutation			
+- [ ]	32	Longest Valid Parentheses			
+- [ ]	33	Search in Rotated Sorted Array			
+- [ ]	34	Find First and Last Position of Element in Sorted Array			
+- [ ]	35	Search Insert Position			
+- [ ]	36	Valid Sudoku			
+- [ ]	37	Sudoku Solver			
+- [ ]	39	Combination Sum			
+- [ ]	40	Combination Sum II			
+- [ ]	41	First Missing Positive			
+- [ ]	42	Trapping Rain Water			
+- [ ]	43	Multiply Strings			
+- [ ]	45	Jump Game II			
+- [ ]	46	Permutations			
+- [ ]	48	Rotate Image			
+- [ ]	49	Group Anagrams			
+- [ ]	50	Pow(x, n)			
+- [ ]	51	N-Queens			
+- [ ]	53	Maximum Subarray			
+- [ ]	54	Spiral Matrix			
+- [ ]	55	Jump Game			
+- [ ]	56	Merge Intervals			
+- [ ]	57	Insert Interval			
+- [ ]	59	Spiral Matrix II			
+- [ ]	62	Unique Paths			
+- [ ]	66	Plus One			
+- [ ]	68	Text Justification			
+- [ ]	76	Minimum Window Substring			
+- [ ]	78	Subsets			
+- [ ]	79	Word Search			
+- [ ]	80	Remove Duplicates from Sorted Array II			
+- [ ]	81	Search in Rotated Sorted Array II			
+- [ ]	84	Largest Rectangle in Histogram			
+- [ ]	88	Merge Sorted Array			
+- [ ]	90	Subsets II			
+- [ ]	91	Decode Ways			
+- [ ]	92	Reverse Linked List II			
+- [ ]	93	Restore IP Addresses			
+- [ ]	98	Validate Binary Search Tree			
+- [ ]	101	Symmetric Tree			
+- [ ]	102	Binary Tree Level Order Traversal			
+- [ ]	103	Binary Tree Zigzag Level Order Traversal			
+- [ ]	105	Construct Binary Tree from Preorder and Inorder Traversal			
+- [ ]	113	Path Sum II			
+- [ ]	117	Populating Next Right Pointers in Each Node II			
+- [ ]	121	Best Time to Buy and Sell Stock			
+- [ ]	124	Binary Tree Maximum Path Sum			
+- [ ]	125	Valid Palindrome			
+- [ ]	127	Word Ladder			
+- [ ]	130	Surrounded Regions			
+- [ ]	131	Palindrome Partitioning			
+- [ ]	132	Palindrome Partitioning II			
+- [ ]	133	Clone Graph			
+- [ ]	134	Gas Station			
+- [ ]	139	Word Break			
+- [ ]	146	LRU Cache			
+- [ ]	148	Sort List			
+- [ ]	151	Reverse Words in a String			
+- [ ]	153	Find Minimum in Rotated Sorted Array			
+- [ ]	159	Longest Substring with At Most Two Distinct Characters
+- [ ]	160	Intersection of Two Linked Lists			
+- [ ]	162	Find Peak Element			
+- [ ]	163	Missing Ranges
+- [ ]	165	Compare Version Numbers			
+- [ ]	198	House Robber			
+- [ ]	199	Binary Tree Right Side View			
+- [ ]	200	Number of Islands			
+- [ ]	202	Happy Number			
+- [ ]	204	Count Primes			
+- [ ]	206	Reverse Linked List			
+- [ ]	207	Course Schedule			
+- [ ]	210	Course Schedule II			
+- [ ]	212	Word Search II			
+- [ ]	213	House Robber II			
+- [ ]	215	Kth Largest Element in an Array			
+- [ ]	221	Maximal Square			
+- [ ]	222	Count Complete Tree Nodes			
+- [ ]	224	Basic Calculator			
+- [ ]	227	Basic Calculator II			
+- [ ]	236	Lowest Common Ancestor of a Binary Tree			
+- [ ]	238	Product of Array Except Self			
+- [ ]	239	Sliding Window Maximum			
+- [ ]	253	Meeting Rooms II
+- [ ]	254	Factor Combinations
+- [ ]	261	Graph Valid Tree
+- [ ]	269	Alien Dictionary
+- [ ]	278	First Bad Version			
+- [ ]	282	Expression Add Operators			
+- [ ]	283	Move Zeroes			
+- [ ]	286	Walls and Gates
+- [ ]	295	Find Median from Data Stream			
+- [ ]	297	Serialize and Deserialize Binary Tree			
+- [ ]	298	Binary Tree Longest Consecutive Sequence
+- [ ]	300	Longest Increasing Subsequence			
+- [ ]	301	Remove Invalid Parentheses			
+- [ ]	314	Binary Tree Vertical Order Traversal
+- [ ]	316	Remove Duplicate Letters			
+- [ ]	322	Coin Change			
+- [ ]	323	Number of Connected Components in an Undirected Graph
+- [ ]	328	Odd Even Linked List			
+- [ ]	329	Longest Increasing Path in a Matrix			
+- [ ]	331	Verify Preorder Serialization of a Binary Tree			
+- [ ]	333	Largest BST Subtree
+- [ ]	340	Longest Substring with At Most K Distinct Characters
+- [ ]	347	Top K Frequent Elements			
+- [ ]	353	Design Snake Game
+- [ ]	354	Russian Doll Envelopes			
+- [ ]	355	Design Twitter			
+- [ ]	378	Kth Smallest Element in a Sorted Matrix			
+- [ ]	380	Insert Delete GetRandom O(1)			
+- [ ]	387	First Unique Character in a String			
+- [ ]	392	Is Subsequence			
+- [ ]	394	Decode String			
+- [ ]	395	Longest Substring with At Least K Repeating Characters			
+- [ ]	398	Random Pick Index			
+- [ ]	399	Evaluate Division			
+- [ ]	403	Frog Jump			
+- [ ]	410	Split Array Largest Sum			
+- [ ]	412	Fizz Buzz			
+- [ ]	415	Add Strings			
+- [ ]	416	Partition Equal Subset Sum			
+- [ ]	417	Pacific Atlantic Water Flow			
+- [ ]	435	Non-overlapping Intervals			
+- [ ]	437	Path Sum III			
+- [ ]	438	Find All Anagrams in a String			
+- [ ]	480	Sliding Window Median			
+- [ ]	486	Predict the Winner			
+- [ ]	487	Max Consecutive Ones II
+- [ ]	490	The Maze
+- [ ]	493	Reverse Pairs			
+- [ ]	523	Continuous Subarray Sum			
+- [ ]	560	Subarray Sum Equals K			
+- [ ]	572	Subtree of Another Tree			
+- [ ]	588	Design In-Memory File System
+- [ ]	617	Merge Two Binary Trees			
+- [ ]	621	Task Scheduler			
+- [ ]	658	Find K Closest Elements			
+- [ ]	662	Maximum Width of Binary Tree			
+- [ ]	666	Path Sum IV
+- [ ]	670	Maximum Swap			
+- [ ]	680	Valid Palindrome II			
+- [ ]	684	Redundant Connection			
+- [ ]	694	Number of Distinct Islands
+- [ ]	695	Max Area of Island			
+- [ ]	696	Count Binary Substrings			
+- [ ]	720	Longest Word in Dictionary			
+- [ ]	721	Accounts Merge			
+- [ ]	722	Remove Comments			
+- [ ]	724	Find Pivot Index			
+- [ ]	726	Number of Atoms			
+- [ ]	735	Asteroid Collision			
+- [ ]	739	Daily Temperatures			
+- [ ]	743	Network Delay Time			
+- [ ]	767	Reorganize String			
+- [ ]	772	Basic Calculator III
+- [ ]	773	Sliding Puzzle			
+- [ ]	780	Reaching Points			
+- [ ]	785	Is Graph Bipartite?			
+- [ ]	787	Cheapest Flights Within K Stops			
+- [ ]	790	Domino and Tromino Tiling			
+- [ ]	791	Custom Sort String			
+- [ ]	799	Champagne Tower			
+- [ ]	815	Bus Routes			
+- [ ]	489	Robot Room Cleaner
+- [ ]	839	Similar String Groups			
+- [ ]	844	Backspace String Compare			
+- [ ]	855	Exam Room			
+- [ ]	856	Score of Parentheses			
+- [ ]	875	Koko Eating Bananas			
+- [ ]	528	Random Pick with Weight			
+- [ ]	886	Possible Bipartition			
+- [ ]	896	Monotonic Array			
+- [ ]	934	Shortest Bridge			
+- [ ]	945	Minimum Increment to Make Array Unique			
+- [ ]	946	Validate Stack Sequences			
+- [ ]	947	Most Stones Removed with Same Row or Column			
+- [ ]	953	Verifying an Alien Dictionary			
+- [ ]	968	Binary Tree Cameras			
+- [ ]	973	K Closest Points to Origin			
+- [ ]	981	Time Based Key-Value Store			
+- [ ]	992	Subarrays with K Different Integers			
+- [ ]	993	Cousins in Binary Tree			
+- [ ]	994	Rotting Oranges			
+- [ ]	1002	Find Common Characters			
+- [ ]	1004	Max Consecutive Ones III			
+- [ ]	1010	Pairs of Songs With Total Durations Divisible by 60			
+- [ ]	1011	Capacity To Ship Packages Within D Days			
+- [ ]	1023	Camelcase Matching			
+- [ ]	1024	Video Stitching			
+- [ ]	1099	Two Sum Less Than K
+- [ ]	1027	Longest Arithmetic Subsequence			
+- [ ]	1029	Two City Scheduling			
+- [ ]	1048	Longest String Chain			
+- [ ]	1229	Meeting Scheduler
+- [ ]	1091	Shortest Path in Binary Matrix			
+- [ ]	1507	Reformat Date			
+- [ ]	1209	Remove All Adjacent Duplicates in String II			
+- [ ]	1219	Path with Maximum Gold			
+- [ ]	1235	Maximum Profit in Job Scheduling			
+- [ ]	1249	Minimum Remove to Make Valid Parentheses			
+- [ ]	1293	Shortest Path in a Grid with Obstacles Elimination			
+- [ ]	1296	Divide Array in Sets of K Consecutive Numbers			
+- [ ]	1345	Jump Game IV			
+- [ ]	1335	Minimum Difficulty of a Job Schedule			
+- [ ]	1347	Minimum Number of Steps to Make Two Strings Anagram			
+- [ ]	1373	Maximum Sum BST in Binary Tree			
+- [ ]	1352	Product of the Last K Numbers			
+- [ ]	1366	Rank Teams by Votes			
+- [ ]	1381	Design a Stack With Increment Operation			
+- [ ]	1444	Number of Ways of Cutting a Pizza			
+- [ ]	1454	Active Users
+- [ ]	1539	Kth Missing Positive Number			
+- [ ]	1530	Number of Good Leaf Nodes Pairs			
+- [ ]	1654	Minimum Jumps to Reach Home			
+- [ ]	1650	Lowest Common Ancestor of a Binary Tree III
+- [ ]	1774	Closest Dessert Cost			
+- [ ]	1762	Buildings With an Ocean View
+- [ ]	1860	Incremental Memory Leak			
+- [ ]	1861	Rotating the Box			
+- [ ]	1857	Largest Color Value in a Directed Graph			
+- [ ]	1974	Minimum Time to Type Word Using Special Typewriter			
+- [ ]	1996	The Number of Weak Characters in the Game			
+- [ ]	2055	Plates Between Candles			
+- [ ]	2096	Step-By-Step Directions From a Binary Tree Node to Another			
+- [ ]	2115	Find All Possible Recipes from Given Supplies			
+- [ ]	2145	Count the Hidden Sequences			
+- [ ]	2158	Amount of New Area Painted Each Day
+- [ ]	2414	Length of the Longest Alphabetical Continuous Substring			
+- [ ]	2456	Most Popular Video Creator			
+- [ ]	2523	Closest Prime Numbers in Range			
+- [ ]	2640	Find the Score of All Prefixes of an Array			
+- [ ]	2552	Count Increasing Quadruplets			
+- [ ]	2659	Make Array Empty			
+- [ ]	2799	Count Complete Subarrays in an Arra
